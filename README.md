@@ -23,7 +23,7 @@ brew bundle Caskfile
 
 Clone repository and run setup script:
 ```bash
-git clone https://github.com/maxhoffmann/dotfiles.git && cd dotfiles && source setup.sh
+git clone https://github.com/eschaefer/dotfiles-1.git && cd dotfiles-1 && source setup.sh
 ```
 
 Set some OS X default settings:

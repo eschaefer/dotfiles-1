@@ -42,7 +42,7 @@ install homebrew/php/php55 --with-gmp
 # install foremost
 install git
 # install hashpump
-# install imagemagick --with-webp
+install imagemagick --with-webp
 # install lynx
 # install nmap
 install node # This installs `npm` too using the recommended installation method
@@ -57,6 +57,13 @@ install tree
 # install webkit2png
 # install xpdf
 # install zopfli
+
+install curl
+install jpeg
+install openssl
+install postgresql
+install tor
+install torsocks
 
 # install homebrew/versions/lua52
 
